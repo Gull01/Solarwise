@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Watt Wise — Solar System Calculator",
+  title: "SolarWise — Solar System Calculator",
   description: "Size a solar PV system: panels, inverter, battery, cost and payback period.",
 };
 

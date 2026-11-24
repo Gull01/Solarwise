@@ -1,6 +1,8 @@
-# Watt Wise — Solar System Calculator
+# SolarWise — Solar System Calculator
 
 A Next.js app that sizes a residential solar PV system from your electricity use and location.
+
+**Live:** https://solarwattwise.vercel.app
 
 **It calculates:** system size (kWp), panel count, inverter size, battery bank (hybrid / off-grid), roof area, yearly production, cost, first-year and lifetime savings, payback period, ROI, and CO₂ avoided. It also shows a 25-year cash-flow chart.
 

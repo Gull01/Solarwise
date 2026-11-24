@@ -8,7 +8,7 @@ export default function Home() {
         <div className="mb-3 flex items-center justify-between gap-4">
           <div className="text-accent-strong inline-flex items-center gap-2 text-lg font-bold tracking-tight">
             <SunIcon />
-            Watt Wise
+            SolarWise
           </div>
           <ThemeToggle />
         </div>
